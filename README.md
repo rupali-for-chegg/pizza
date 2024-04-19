@@ -1,2 +1,1 @@
 # pizza
-Store pizza 
